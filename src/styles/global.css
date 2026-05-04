@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-white: #FFFFFF;
+    --color-i-black: #0F0F0F;
+    --color-black: #000000;
+    --color-d-gray:#4D4D4D;
+    --color-grey: #999999;
+    --color-pink: #FF3CAC;
+
+    --font-title: "Alexandria", sans-serif;
+    --font-body: "Inter", sans-serif;
+
+}
